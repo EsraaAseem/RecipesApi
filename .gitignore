@@ -1,0 +1,66 @@
+# ASP.NET Core
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.csproj.user
+*.cache
+*.dll
+*.pdb
+*.log
+*.vspscc
+*.vssscc
+*.dotCover
+*.resharper
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Dd]ebugPublic/
+[Rr]eleasePublic/
+Ankh.NoLoad
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Roslyn cache directories
+*.ide/
+*.ide-shutdown/
+*.ide-wait/
+*.dll.shadow
+*.dll.br
+*.dll.gz
+*.dll.zst
+*.pdb.shadow
+*.pdb.br
+*.pdb.gz
+*.pdb.zst
+
+# Rider
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.ReSharper*/
+*.DotSettings.user
